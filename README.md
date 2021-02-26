@@ -53,7 +53,7 @@ NOTE: this will not delete any folders you created (or renamed)
 `cd` to the top level directory of _this_ repo (i.e. `cli-music...`)
 
 Copy/paste the following commands to send your work to Github:
-```bash
+```
 history >> commands.txt
 git add .
 git commit -m "update repo"
