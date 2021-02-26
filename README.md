@@ -1,6 +1,6 @@
 # Command Line Interface Practice: Music
 
-## Task 0: Observe the current file structure
+## Before you begin: observe the current file tree
 
 ```
 cli-music
@@ -23,7 +23,7 @@ cli-music
 |-- README.md
 ```
 
-## Task 1: Modifying the File Tree
+## Task: Modifying the File Tree
 
 Using ONLY the command line, change your file tree until it matches what you see below:
 
@@ -42,15 +42,15 @@ cli-music
 |-- README.md
 ```
 
-If you made a mistake, you can undo your changes with the following command:
+If you made a mistake, you can undo (almost) all of your changes my making sure you are the top-level directory of _this_ repo (i.e. `cli-music...`) and doing the following command:
 
 `git restore .`
 
 NOTE: this will not delete any folders you created (or renamed)
 
-## Task 2: Push your work!
+## Pushing your work!
 
-`cd` to the top level directory of _this_ repository (i.e. `cli-music...`)
+`cd` to the top level directory of _this_ repo (i.e. `cli-music...`)
 
 Copy/paste the following commands to send your work to Github:
 ```bash
