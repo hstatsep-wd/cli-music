@@ -3,7 +3,7 @@
 ## Before you begin: observe the current file tree
 
 ```
-cli-music
+cli-music-yourUsername
 |-- country
 |   |-- taylor-swift.txt
 |-- hip-hop
@@ -28,7 +28,7 @@ cli-music
 Using ONLY the command line, change your file tree until it matches what you see below:
 
 ```
-cli-music
+cli-music-yourUsername
 |-- pop
 |   |-- taylor-swift.txt
 |-- punk-rock
