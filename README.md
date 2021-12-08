@@ -58,6 +58,7 @@ history >> commands.txt
 git add .
 git commit -m "update repo"
 git push
+
 ```
 
 NOTE: make sure you press <kbd>ENTER</kbd> after that last command!
