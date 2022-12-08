@@ -42,7 +42,7 @@ cli-music-yourUsername
 |-- README.md
 ```
 
-If you made a mistake, you can undo (almost) all of your changes my making sure you are the top-level directory of _this_ repo (i.e. `cli-music...`) and doing the following command:
+If you made a mistake, you can undo (almost) all of your changes by making sure you are the top-level directory of _this_ repo (i.e. `cli-music...`) and doing the following command:
 
 `git restore .`
 
